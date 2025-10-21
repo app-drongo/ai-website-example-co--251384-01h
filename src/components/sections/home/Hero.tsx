@@ -7,7 +7,7 @@ import { useState } from 'react';
 import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
-  badge: '🔥 Limited Time Offer',
+  badge: '☝ Limited Time Offer',
   title: 'Transform Your Business with',
   titleHighlight: 'Revolutionary Solutions',
   description:
